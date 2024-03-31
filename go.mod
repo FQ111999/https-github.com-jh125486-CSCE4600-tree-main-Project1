@@ -1,4 +1,4 @@
-module github.com/jh125486/CSCE4600
+module github.com/FQ111999
 
 go 1.22
 
